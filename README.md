@@ -1,24 +1,78 @@
-# 💫 About Me:
-### Hi there, I'm Anurudh Singh 👋<br><br>- 🔭 I’m currently working on full-stack web projects and AI-powered apps  <br>- 🌱 I’m learning advanced algorithms and cloud technologies  <br>- 💻 Tech stack: JavaScript, Node.js, React, MongoDB, AI/ML  <br>- ⚡ Fun fact: I love turning creative ideas into real projects
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy_anirudh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurudh-singh- ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepsinghanurudh@gmail.com) 
+# 🚨 DEVELOPER UNDER INVESTIGATION 🚨
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepsingh-co&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepsingh-co&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh-co&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepsingh-co&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Welcome to Anurudh Singh's Developer Profile 💀
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepsingh-co&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Full Stack Developer | AI Engineer | Professional Bug Creator**
+
+![Status](https://img.shields.io/badge/Developer-Under_Investigation-red?style=for-the-badge)
+![Brain](https://img.shields.io/badge/Brain-404_Not_Found-black?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepsingh-co&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕵️ About This Developer
+
+- 👨‍💻 Claims to know 27 programming technologies.
+- 🤖 AI-powered apps, but still asks AI how to fix errors.
+- ☕ Code runs only after 14 cups of coffee.
+- 🧠 Brain currently running on JavaScript promises.
+- 🔥 Says "Easy project" before opening VS Code.
+- 💀 Has 46 repositories but how many actually work?
+
+## ⚡ Technical Skills (According to Him)
+
+| Technology | Actual Status |
+|---|---|
+| JavaScript | Copy + Paste |
+| React | useState() and Pray |
+| Node.js | node_modules enjoyer |
+| MongoDB | Data? What Data? |
+| Python | Import Error |
+| Java | NullPointerException |
+| AI / ML | Asking ChatGPT |
+| Git | Commit and Regret |
+| CSS | Why isn't it centered? |
+| Cloud | Mentally unavailable |
+
+## 🏆 Achievements Unlocked
+
+- 🥇 Fixed a bug by restarting VS Code.
+- 🥈 Googled an error for 3 hours.
+- 🥉 Wrote `console.log("Hello World")` without AI.
+- 🏅 Successfully submitted code that works only on his laptop.
+
+## 📊 Developer Statistics
+
+**Bugs Created:** ∞
+
+**Bugs Fixed:** 2
+
+**Stack Overflow Visits:** 999999+
+
+**Lines of Code:** 10
+
+**Lines of Copied Code:** 100000
+
+---
+
+# 🚨 OFFICIAL NOTICE
+
+This developer is currently wanted for:
+
+- Writing code without testing.
+- Pushing directly to main.
+- Naming files `final_final_v2.js`.
+- Saying "One last change" at 3 AM.
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+
+### Thank you for visiting this disaster. ❤️
+
+**PS: Anurudh, your GitHub is not safe anymore. 😂**
+
+</div>
